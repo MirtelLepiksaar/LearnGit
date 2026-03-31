@@ -1,2 +1,2 @@
 # learngit
-line main 1
+main line 1
